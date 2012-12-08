@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>board1</key>
+	<dict>
+		<key>filename</key>
+		<string>vg_128_96_board_1.png</string>
+		<key>x</key>
+		<integer>768</integer>
+		<key>y</key>
+		<integer>176</integer>
+		<key>width</key>
+		<integer>128</integer>
+		<key>height</key>
+		<integer>96</integer>
+		<key>isVisible</key>
+		<true/>
+		<key>name</key>
+		<string></string>
+		<key>z</key>
+		<integer>1</integer>
+		<key>tag</key>
+		<integer>4</integer>
+		<key>isPhyxEnable</key>
+		<true/>
+		<key>phyfile</key>
+		<string>vg_physics.plist</string>
+		<key>bodyname</key>
+		<string>vg_128_96_board_1</string>
+	</dict>
+</dict>
+</plist>

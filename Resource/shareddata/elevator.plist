@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elev</key>
+	<dict>
+		<key>filename</key>
+		<string>vg_96_32_elevator.png</string>
+		<key>x</key>
+		<integer>51</integer>
+		<key>y</key>
+		<integer>-522</integer>
+		<key>width</key>
+		<integer>96</integer>
+		<key>height</key>
+		<integer>32</integer>
+		<key>isVisible</key>
+		<true/>
+		<key>name</key>
+		<string>elev1</string>
+		<key>z</key>
+		<integer>2</integer>
+		<key>tag</key>
+		<integer>22</integer>
+		<key>isPhyxEnable</key>
+		<true/>
+		<key>phyfile</key>
+		<string>vg_physics.plist</string>
+		<key>bodyname</key>
+		<string>vg_96_32_elevator</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagle</key>
+	<dict>
+		<key>filename</key>
+		<string>vg_256_128_Bird_Fly.png</string>
+		<key>x</key>
+		<integer>512</integer>
+		<key>y</key>
+		<integer>1280</integer>
+		<key>width</key>
+		<integer>256</integer>
+		<key>height</key>
+		<integer>128</integer>
+		<key>maxWidth</key>
+		<integer>2560</integer>
+		<key>minWidth</key>
+		<string>512</string>
+		<key>isVisible</key>
+		<true/>
+		<key>name</key>
+		<string>eagle</string>
+		<key>z</key>
+		<integer>1</integer>
+		<key>tag</key>
+		<integer>18</integer>
+		<key>blood</key>
+		<integer>3</integer>
+		<key>animations</key>
+		<dict>
+			<key>fly_left</key>
+			<string>vg_256_128_Bird_Fly_Left.plist</string>
+			<key>fly_right</key>
+			<string>vg_256_128_Bird_Fly_Right.plist</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

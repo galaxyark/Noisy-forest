@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ComputeCentroid:b2PolygonShape.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "b2_epsilon">
+            </PersistentString>
+            <PersistentString
+               value = "vs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CCRio loudSpeaker]:CCRio.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CCSharedData sharedData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CCLayerContent init]:CCLayerContent.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CCSharedData sharedData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CCLayerContent update:]:CCLayerContent.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CCSharedData sharedData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CCRio update:]:CCRio.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CCSharedData sharedData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CCEagle evaluate:]:CCEagle.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[CCSharedData sharedData] arr_bullet]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CCRio updateTools:]:CCRio.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CCSharedData sharedData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GB2ShapeCache addShapesWithFile:]:GB2ShapeCache.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[CCSmallAnimal runAway]:CCSmallAnimal.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[CCSharedData init]:CCSharedData.mm">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

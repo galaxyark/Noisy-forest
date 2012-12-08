@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stone1</key>
+	<dict>
+		<key>filename</key>
+		<string>vg_48_48_mole_stone.png</string>
+		<key>width</key>
+		<integer>48</integer>
+		<key>height</key>
+		<integer>48</integer>
+		<key>y</key>
+		<integer>-448</integer>
+		<key>distance</key>
+		<integer>768</integer>
+		<key>speed</key>
+		<integer>175</integer>
+		<key>name</key>
+		<string>stone</string>
+		<key>z</key>
+		<integer>2</integer>
+		<key>tag</key>
+		<integer>13</integer>
+		<key>power</key>
+		<real>4.5</real>
+	</dict>
+	<key>stone2</key>
+	<dict>
+		<key>filename</key>
+		<string>vg_64_64_stone.png</string>
+		<key>width</key>
+		<integer>64</integer>
+		<key>height</key>
+		<integer>64</integer>
+		<key>y</key>
+		<string>-448</string>
+		<key>distance</key>
+		<string>768</string>
+		<key>speed</key>
+		<string>250</string>
+		<key>name</key>
+		<string>fireball</string>
+		<key>z</key>
+		<integer>2</integer>
+		<key>tag</key>
+		<integer>14</integer>
+		<key>power</key>
+		<integer>5</integer>
+	</dict>
+</dict>
+</plist>
